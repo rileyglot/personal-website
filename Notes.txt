@@ -1,0 +1,11 @@
+https://secure.runescape.com/m=hiscore_oldschool/index_lite.ws?player=redux_alex
+
+REMEMBER TO RUN AS ADMIN
+
+npm run dev
+
+
+
+        const [woodcuttingLevel, setWoodcuttingLevel] = useState(null);
+    const [isLoading, setIsLoading] = useState(true)
+    const [error, setError] = useState(false)
